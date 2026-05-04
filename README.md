@@ -24,9 +24,9 @@ This work was supported in part by [Proyecto Arrecife](https://www.proyectoarrec
 
 ```
 Compaire, J.C., Trobbiani, G., Mas, F., Cuevas, J.M., Pantano, C., Laporta, M.,
-Albornoz, L., Lagger, C., Irigoyen, A. (2026a). The broadnose sevengill shark,
+Albornoz, L., Lagger, C., Irigoyen, A. (2026). The broadnose sevengill shark,
 Notorynchus cepedianus, an apex predator: population structure and growth
-estimates. Fish and Fisheries, XX(X), XXX. https://doi.org/XXXXX
+estimates. Fishiers Research, XX(X), XXX. https://doi.org/XXXXX
 ```
 
 # _Notorynchus cepedianus_
