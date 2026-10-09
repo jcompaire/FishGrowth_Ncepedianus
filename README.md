@@ -1,4 +1,4 @@
-[![DOI](https://img.shields.io/badge/DOI/10.5281/zenodo.23262986-blue.svg)](https://doi.org/10.5281/zenodo.23262986)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23262986-blue.svg)](https://doi.org/10.5281/zenodo.23262986)
 
 ## A Python script for generating figures about population structure of *Notorynchus cepedianus* and their growth curves
 
