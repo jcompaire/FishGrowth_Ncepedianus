@@ -32,7 +32,7 @@ Open the project in Python in your preferred IDE (Spyder was used for this proje
 
 👤 Authors
 
-This work was conducted by [Jesus C. Compaire](https://www.researchgate.net/profile/Jesus-Compaire), [Gastón A. Trobbiani](https://www.researchgate.net/profile/Gaston-Trobbiani), Federico Más, Juan Martín Cuevas, Carolina Pantano, Martín Laporta, Lucas Albornoz, Cristian Lagger,  and [Alejo J. Irigoyen](https://www.researchgate.net/profile/Alejo-Irigoyen). Jesus C. Compaire wrote and updates the Python script.
+This work was conducted by [Jesus C. Compaire](https://www.researchgate.net/profile/Jesus-Compaire), [Gastón A. Trobbiani](https://www.researchgate.net/profile/Gaston-Trobbiani), Federico Más, Juan Martín Cuevas, Carolina Pantano, [Martín Laporta](https://www.researchgate.net/profile/Martin-Laporta), Lucas Albornoz, Cristian Lagger,  and [Alejo J. Irigoyen](https://www.researchgate.net/profile/Alejo-Irigoyen). Jesus C. Compaire wrote and updates the Python script.
 
 This work was supported in part by [Proyecto Arrecife](https://www.proyectoarrecife.com.ar/es/pez/gatopardo). 
 
@@ -46,8 +46,10 @@ Compaire, J.C., Trobbiani, G.A., Mas, F., Cuevas, J.M., Pantano, C.,
 Laporta, M., Albornoz, L., Lagger, C., Irigoyen, A.J. (2026). Wild population 
 size structure and female-specific growth of the broadnose sevengill shark, 
 Notorynchus cepedianus, in the Southwestern Atlantic. 
-Fisheries Research, XX(X), XXX. https://doi.org/10.1016/j.fishres.2026.107896
+Fisheries Research, 303, 107896. https://doi.org/10.1016/j.fishres.2026.107896
 ```
+[![DOI:10.1016/j.fishres.2026.107896]](http://img.shields.io/badge/DOI-10.1016/j.fishres.2026.107896.svg)](https://doi.org/10.1016/j.fishres.2026.107896)
+
 
 # _Notorynchus cepedianus_
 <img align="left" width="50%" src="https://www.proyectoarrecife.com.ar/sites/default/files/2021-01/29.359_Irigoyen%20Alejo_20160926_Alejo%20Irigoyen.jpg"/>
