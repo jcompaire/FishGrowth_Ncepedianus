@@ -49,7 +49,7 @@ Notorynchus cepedianus, in the Southwestern Atlantic.
 Fisheries Research, 303, 107896. https://doi.org/10.1016/j.fishres.2026.107896
 ```
 
-[![DOI: 10.1016/j.fishres.2026.107896](https://img.shields.io/badge/DOI-10.1016%2Fj.fishres.2026.107896.svg)](https://doi.org/10.1016/j.fishres.2026.107896)
+[![DOI: 10.1016/j.fishres.2026.107896](https://img.shields.io/badge/DOI-10.1016%2Fj.fishres.2026.107896-orange.svg)](https://doi.org/10.1016/j.fishres.2026.107896)
 
 # _Notorynchus cepedianus_
 <img align="left" width="50%" src="https://www.proyectoarrecife.com.ar/sites/default/files/2021-01/29.359_Irigoyen%20Alejo_20160926_Alejo%20Irigoyen.jpg"/>
