@@ -48,7 +48,7 @@ size structure and female-specific growth of the broadnose sevengill shark,
 Notorynchus cepedianus, in the Southwestern Atlantic. 
 Fisheries Research, 303, 107896. https://doi.org/10.1016/j.fishres.2026.107896
 ```
-[![DOI:10.1016/j.fishres.2026.107896]](http://img.shields.io/badge/DOI-10.1016/j.fishres.2026.107896.svg)](https://doi.org/10.1016/j.fishres.2026.107896)
+[![DOI:10.1016/j.fishres.2026.107896]](https://img.shields.io/badge/DOI-10.1016/j.fishres.2026.107896.svg)](https://doi.org/10.1016/j.fishres.2026.107896)
 
 
 # _Notorynchus cepedianus_
